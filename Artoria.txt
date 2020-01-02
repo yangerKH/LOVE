@@ -1,4 +1,3 @@
 hello,Artoria
 we are saber.
-I am blue saber.
-hahaha
+I am blue saber
